@@ -1,0 +1,12 @@
+{
+  "name": "webdriverIO",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-core": "2",
+    "wdio-spec-reporter": "0",
+    "wdio-jasmine-framework": "*",
+    "webdriverio": "^4",
+    "icu-loader": "2"
+  }
+}
